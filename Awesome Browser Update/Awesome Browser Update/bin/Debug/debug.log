@@ -1,0 +1,237 @@
+[1201/093514:INFO:(0)] WebCore is now online.
+[1201/093514:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/093518:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/093534:INFO:(0)] WebCore is now online.
+[1201/093534:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/093536:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/093539:INFO:(0)] WebCore is now online.
+[1201/093539:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/093545:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/093556:INFO:(0)] WebCore is now online.
+[1201/093556:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/093602:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/093623:INFO:(0)] WebCore is now online.
+[1201/093623:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/093636:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/093925:INFO:(0)] WebCore is now online.
+[1201/093925:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/093932:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/093938:INFO:(0)] WebCore is now online.
+[1201/093938:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/093947:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[1201/093947:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/094020:INFO:(0)] WebCore is now online.
+[1201/094020:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/094022:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/094109:INFO:(0)] WebCore is now online.
+[1201/094109:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/094120:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/164435:INFO:(0)] WebCore is now online.
+[1201/164435:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/164457:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/164724:INFO:(0)] WebCore is now online.
+[1201/164724:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/164910:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/165040:INFO:(0)] WebCore is now online.
+[1201/165040:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/165302:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/165704:INFO:(0)] WebCore is now online.
+[1201/165704:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/165712:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/171848:INFO:(0)] WebCore is now online.
+[1201/171848:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/171858:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/172607:INFO:(0)] WebCore is now online.
+[1201/172607:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/172610:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/172635:INFO:(0)] WebCore is now online.
+[1201/172635:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/172649:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/173749:INFO:(0)] WebCore is now online.
+[1201/173749:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/173754:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/173824:INFO:(0)] WebCore is now online.
+[1201/173824:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/174108:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/174718:INFO:(0)] WebCore is now online.
+[1201/174718:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/175015:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/175921:INFO:(0)] WebCore is now online.
+[1201/175921:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/175927:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/175933:INFO:(0)] WebCore is now online.
+[1201/175933:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/175944:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/180013:INFO:(0)] WebCore is now online.
+[1201/180013:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/180145:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/185020:INFO:(0)] WebCore is now online.
+[1201/185020:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/185044:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/185048:INFO:(0)] WebCore is now online.
+[1201/185048:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/185226:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/185234:INFO:(0)] WebCore is now online.
+[1201/185234:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/185736:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[1201/185736:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/190756:INFO:(0)] WebCore is now online.
+[1201/190756:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/191333:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/191435:INFO:(0)] WebCore is now online.
+[1201/191435:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/191444:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[1201/191444:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/192416:INFO:(0)] WebCore is now online.
+[1201/192416:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/192519:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/192557:INFO:(0)] WebCore is now online.
+[1201/192557:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/192623:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/193247:INFO:(0)] WebCore is now online.
+[1201/193247:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/193250:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/201646:INFO:(0)] WebCore is now online.
+[1201/201646:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/201831:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/202300:INFO:(0)] WebCore is now online.
+[1201/202300:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/202312:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/203652:INFO:(0)] WebCore is now online.
+[1201/203652:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/203811:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/205050:INFO:(0)] WebCore is now online.
+[1201/205050:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/205058:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/205115:INFO:(0)] WebCore is now online.
+[1201/205115:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/205119:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   σε System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   σε System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/210125:INFO:(0)] WebCore is now online.
+[1201/210125:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/210404:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/210412:INFO:(0)] WebCore is now online.
+[1201/210412:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/210451:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   σε System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   σε System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
+[1201/210455:INFO:(0)] WebCore is now online.
+[1201/210455:INFO:(0)] Running Awesomium 1.7.5.1
+[1201/210513:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Παρουσιάστηκε σφάλμα κατά την κλήση της μεθόδου.  Το νήμα προορισμού δεν υπάρχει πλέον.
+   σε System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   σε Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   σε Awesomium.Core.WebCore.ioXQMTP1sf()
